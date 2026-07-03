@@ -1,0 +1,4 @@
+interface:
+  display_name: "硬件接口契约"
+  short_description: "从芯片手册、原理图、旧固件提取可审查的硬件接口契约与调试清单"
+  default_prompt: "使用 $hardware-interface-contract 从手册、原理图说明和既有固件中提取固件可用的硬件接口契约。"
